@@ -2,4 +2,4 @@
 __pycache__/
 *.psd
 private/
-final/
+/final/

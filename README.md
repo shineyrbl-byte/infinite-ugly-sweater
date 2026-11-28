@@ -5,11 +5,22 @@ And a holiday card where I'm standing in a living room where **everything is kni
 
 My entry for **Deck the Pixels 2026** (Google × Adobe): design an ugly sweater with Nano Banana in Photoshop, add yourself, and turn it into a holiday card.
 
+> ✅ **Submitted 28 Nov 2026.** Made in Photoshop on the web with **Gemini 3 (Nano Banana Pro)**, in four generations.
+
+![The sweater and the holiday card](docs/final/sweater-and-card.png)
+
+| Sweater | Holiday card |
+|---|---|
+| <img src="docs/final/sweater.png" width="380"> | <img src="docs/final/card.png" width="380"> |
+
+![Me, wearing me, wearing me](docs/final/recursion-closeup.png)
+
 | | |
 |---|---|
 | 🧶 **Concept** | [docs/CONCEPT.md](docs/CONCEPT.md): the idea, why it fits the judging criteria, the palette, and the ugliness checklist |
 | 🪄 **Playbook** | [docs/PLAYBOOK.md](docs/PLAYBOOK.md): step-by-step Photoshop + Nano Banana process, planned around 5 free generations a day, plus the layer structure for the required screenshot |
-| 💬 **Prompts** | [prompts/sweater.md](prompts/sweater.md) and [prompts/card.md](prompts/card.md): every Nano Banana prompt, in order, with checks and fixes |
+| ✅ **Prompts actually used** | [prompts/USED.md](prompts/USED.md): the exact four Nano Banana Pro prompts behind the final images |
+| 💬 **Prompt library** | [prompts/sweater.md](prompts/sweater.md) and [prompts/card.md](prompts/card.md): the planned prompts, with checks and fixes |
 | 🧵 **Photo → knitting tool** | [tools/knit_chart.py](tools/knit_chart.py): turns a photo into knitted intarsia and a knitting chart, used as a reference image so the portrait looks like real knitting |
 | 📝 **Submission** | [SUBMISSION.md](SUBMISSION.md): written answers for Devpost |
 
@@ -33,6 +44,11 @@ Both images were made in Photoshop on the web with **Gemini 3 (Nano Banana Pro)*
 - **Sweater:** one whole-sweater Nano Banana Pro edit added the ugliness (LED lights, pom-poms, tinsel, cross-eyed reindeer, 3D nose, a cat unravelling the hem, "I AM THE SWEATER") and turned the photo into a knitted portrait. A second edit, on just the portrait, put me in a copy of the sweater wearing a tiny portrait of myself: the recursion. A Vibrance adjustment layer finishes it.
 - **Card:** a Save As copy of the sweater file, then a full-canvas Nano Banana Pro edit using the sweater as its reference. It built a fully knitted living room with me wearing the sweater, the cat holding the yarn, the card framed on the mantel and the "WISHING YOU AN INFINITELY COZY HOLIDAY" bunting. A targeted face-match edit and a Photoshop type-layer signature finish it.
 
-The final images aren't in this repo because they include a photo of me.
+### Photoshop layers
+Every Nano Banana Pro edit sits on its own masked, named layer:
+
+| Card | Sweater |
+|---|---|
+| <img src="docs/final/layers-card.jpg" width="420"> | <img src="docs/final/layers-sweater.jpg" width="420"> |
 
 Made with Adobe Photoshop and Google's Nano Banana. The script and docs are MIT licensed.

@@ -1,5 +1,7 @@
 # Devpost submission: Deck the Pixels 2026
 
+> ✅ Submitted 28 Nov 2026. The exact prompts are in [prompts/USED.md](prompts/USED.md).
+
 These answers describe what was actually done in the two Photoshop files:
 - **Sweater:** `project - 28-11-2026 10-53-53`
 - **Card:** `Holiday card - Infinite Ugly Sweater`
