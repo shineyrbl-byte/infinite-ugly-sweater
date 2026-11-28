@@ -27,7 +27,12 @@ python3 tools/knit_chart.py me.jpg --stitches 48 --palette portrait
 
 Every stitch is drawn as the two slanted loops of a real stockinette "V", with shading and a little blur for wool fuzz, using only the sweater's yarn colours.
 
-## Final images
-_Coming soon: `sweater.png`, `card.png` and the Layers screenshot will go in `final/`._
+## How it was actually made
+Both images were made in Photoshop on the web with **Gemini 3 (Nano Banana Pro)**:
+
+- **Sweater:** one whole-sweater Nano Banana Pro edit added the ugliness (LED lights, pom-poms, tinsel, cross-eyed reindeer, 3D nose, a cat unravelling the hem, "I AM THE SWEATER") and turned the photo into a knitted portrait. A second edit, on just the portrait, put me in a copy of the sweater wearing a tiny portrait of myself: the recursion. A Vibrance adjustment layer finishes it.
+- **Card:** a Save As copy of the sweater file, then a full-canvas Nano Banana Pro edit using the sweater as its reference. It built a fully knitted living room with me wearing the sweater, the cat holding the yarn, the card framed on the mantel and the "WISHING YOU AN INFINITELY COZY HOLIDAY" bunting. A targeted face-match edit and a Photoshop type-layer signature finish it.
+
+The final images aren't in this repo because they include a photo of me.
 
 Made with Adobe Photoshop and Google's Nano Banana. The script and docs are MIT licensed.
