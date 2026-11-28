@@ -12,10 +12,10 @@ The Infinite Ugly Sweater
 ## Tagline
 An ugly sweater with me on it, wearing the ugly sweater, wearing the ugly sweater. And a card where the whole room is knitted.
 
-## Images to upload
-1. **Sweater:** `infinite-ugly-sweater.png` (already exported to your Adobe cloud files)
-2. **Holiday card:** download from the `Holiday card - Infinite Ugly Sweater` file (Download button, PNG)
-3. **Layers screenshot:** `final/layers-card.jpg` (or `final/layers-sweater.jpg`), in this repo folder on your computer
+## Images to upload (all in your Downloads folder)
+1. **Sweater:** `infinite-ugly-sweater.png`
+2. **Holiday card:** `infinite-ugly-sweater-card.png`
+3. **Layers screenshot:** `infinite-ugly-sweater-layers.jpg`
 
 ## How I used Nano Banana and Photoshop: the sweater
 
